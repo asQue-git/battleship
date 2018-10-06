@@ -86,16 +86,16 @@ body {
     transform: rotate(0deg) scaleX(1) scaleY(1);
   }
   20% {
-    transform: rotate(-360deg) scaleX(1.2) scaleY(1.2);
+    transform: rotate(-180deg) scaleX(1.2) scaleY(1.2);
   }
   28% {
-    transform: scaleX(1.5) scaleY(1.5);
+    transform: rotate(-180deg) scaleX(1.5) scaleY(1.5);
   }
   34% {
-    transform: scaleX(1) scaleY(1);
+    transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
   100% {
-    transform: rotate(-360deg) scaleX(1) scaleY(1);
+    transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
 }
 @-moz-keyframes animationFrames {
@@ -103,16 +103,16 @@ body {
     -moz-transform: rotate(0deg) scaleX(1) scaleY(1);
   }
   20% {
-    -moz-transform: rotate(-360deg) scaleX(1.2) scaleY(1.2);
+    -moz-transform: rotate(-180deg) scaleX(1.2) scaleY(1.2);
   }
   28% {
-    -moz-transform: scaleX(1.5) scaleY(1.5);
+    -moz-transform: rotate(-180deg) scaleX(1.5) scaleY(1.5);
   }
   34% {
-    -moz-transform: scaleX(1) scaleY(1);
+    -moz-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
   100% {
-    -moz-transform: rotate(-360deg) scaleX(1) scaleY(1);
+    -moz-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
 }
 @-webkit-keyframes animationFrames {
@@ -120,16 +120,16 @@ body {
     -webkit-transform: rotate(0deg) scaleX(1) scaleY(1);
   }
   20% {
-    -webkit-transform: rotate(-360deg) scaleX(1.2) scaleY(1.2);
+    -webkit-transform: rotate(-180deg) scaleX(1.2) scaleY(1.2);
   }
   28% {
-    -webkit-transform: scaleX(1.5) scaleY(1.5);
+    -webkit-transform: rotate(-180deg) scaleX(1.5) scaleY(1.5);
   }
   34% {
-    -webkit-transform: scaleX(1) scaleY(1);
+    -webkit-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
   100% {
-    -webkit-transform: rotate(-360deg) scaleX(1) scaleY(1);
+    -webkit-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
 }
 @-o-keyframes animationFrames {
@@ -137,16 +137,16 @@ body {
     -o-transform: rotate(0deg) scaleX(1) scaleY(1);
   }
   20% {
-    -o-transform: rotate(-360deg) scaleX(1.2) scaleY(1.2);
+    -o-transform: rotate(-180deg) scaleX(1.2) scaleY(1.2);
   }
   28% {
-    -o-transform: scaleX(1.5) scaleY(1.5);
+    -o-transform: rotate(-180deg) scaleX(1.5) scaleY(1.5);
   }
   34% {
-    -o-transform: scaleX(1) scaleY(1);
+    -o-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
   100% {
-    -o-transform: rotate(-360deg) scaleX(1) scaleY(1);
+    -o-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
 }
 @-ms-keyframes animationFrames {
@@ -154,15 +154,15 @@ body {
     -ms-transform: rotate(0deg) scaleX(1) scaleY(1);
   }
   20% {
-    -ms-transform: rotate(-360deg) scaleX(1.2) scaleY(1.2);
+    -ms-transform: rotate(-180deg) scaleX(1.2) scaleY(1.2);
   }
   28% {
-    -ms-transform: scaleX(1.5) scaleY(1.5);
+    -ms-transform: rotate(-180deg) scaleX(1.5) scaleY(1.5);
   }
   34% {
-    -ms-transform: scaleX(1) scaleY(1);
+    -ms-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
   100% {
-    -ms-transform: rotate(-360deg) scaleX(1) scaleY(1);
+    -ms-transform: rotate(-180deg) scaleX(1) scaleY(1);
   }
 }
